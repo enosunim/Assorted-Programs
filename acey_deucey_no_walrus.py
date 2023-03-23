@@ -1,3 +1,5 @@
+#   From "BASIC Computer Games - Microcomputer Edition" by David H. Ahl
+
 #   walrus-free version
 #   hopefuly works in every 3.x
 def acey_deucey():
