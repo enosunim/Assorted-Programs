@@ -1,3 +1,5 @@
+#   From "BASIC Computer Games - Microcomputer Edition" by David H. Ahl
+
 #   WARNING: unholy number of times ':=' is used here
 #   walrus-free version coming soon
 def acey_deucey() -> None:
